@@ -1,1 +1,1 @@
-# itau-projeto
+# Projeto de processo seletivo do Itaú Unibanco para estágiario
